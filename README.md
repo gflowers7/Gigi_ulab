@@ -1,2 +1,2 @@
-# Gigi_ulab
+# ulab_Gigi
 Gigi's ULAB homework repository
